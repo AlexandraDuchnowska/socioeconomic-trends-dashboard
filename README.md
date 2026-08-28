@@ -29,7 +29,7 @@ An interactive Shiny (R) dashboard with 10 plotly-driven visualizations: time-se
 ├── app/
 │   └── Final_app_Socioeconomic_and_Environmental_Trends.R
 ├── data/
-│   └── Data_Project_visualisation_and_querying.xlsx
+│   └── Data.xlsx
 ├── report/
 │   └── Final_Report.pdf
 └── README.md
